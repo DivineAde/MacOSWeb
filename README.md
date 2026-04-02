@@ -1,4 +1,4 @@
-> 🛑🛑 Note: This is the new iteration of macOS Web written in Svelte. Previous version written in Preact is available at [DivineAdeyeye/macos-preact](https://github.com/DivineAdeyeye/macos-preact) 🛑🛑
+> 🛑🛑 Note: This is the new iteration of macOS Web written in Svelte.  🛑🛑
 
 # Mac OS Ventura Web
 
