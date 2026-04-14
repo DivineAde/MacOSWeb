@@ -15,7 +15,7 @@
 
 <style>
 	.container {
-		/* // Initial invisible border */
+		/* // Initial invisible border on the page */
 		--additional-box-shadow: 0 0 0 0 white;
 
 		display: block;
