@@ -1,4 +1,4 @@
-> 🛑🛑 Note: This is the new iteration of macOS Web written in Svelte. 🛑🛑
+> 🛑🛑 Note: This is the new iteration of macOS Web written in Svelte.  🛑🛑
 
 # Mac OS Ventura Web
 
