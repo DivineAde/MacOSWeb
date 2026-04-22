@@ -17,7 +17,7 @@ I've always been very fascinated with macOS, and have never owned a Mac/book. So
 - Component Library - None!!
 - Styling Solution - SCSS
 
-# When will it be ready?
+# When will it be ready??
 
 ![Who knows?](https://i.imgur.com/6xfbPzs.gif)
 
