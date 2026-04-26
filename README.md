@@ -14,7 +14,7 @@ I've always been very fascinated with macOS, and have never owned a Mac/book. So
 
 - Framework - Svelte (Earlier Preact)
 - Bundler - Vite for super fast development.
-- Component Library - None!!
+- Component Library - None!!!
 - Styling Solution - SCSS
 
 # When will it be ready???
